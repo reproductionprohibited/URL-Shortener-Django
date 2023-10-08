@@ -1,4 +1,4 @@
-![example workflow](https://github.com/reproductionprohibited/lyceum_django/actions/workflows/django.yml/badge.svg?event=push)
+![example workflow](https://github.com/reproductionprohibited/url_shortener_django/actions/workflows/django.yml/badge.svg?event=push)
 
 # URL SHORTENER DJANGO
 

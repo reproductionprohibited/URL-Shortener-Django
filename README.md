@@ -50,8 +50,8 @@ Go to 127.0.0.1:8000. There you will see the site
 
 Create a .env file in the root project folder and set values to next constants:
 
-1) DEBUG ( <bool>: True/False )
+1) DEBUG ( bool: True/False )
 
-2) SECRET_KEY ( <str>: Django secret key)
+2) SECRET_KEY ( str: Django secret key)
 
-3) ALLOWED_HOSTS ( <List[str]>: list of allowed hosts)
+3) ALLOWED_HOSTS ( List[str]: list of allowed hosts)
